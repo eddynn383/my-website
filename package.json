@@ -1,7 +1,7 @@
 {
   "name": "boboc.eduard.github.io",
   "version": "0.1.0",
-  "homepage": "https://eddynn383.github.io/my-website",
+  "homepage": "https://eddynn383.github.io/portfolio",
   "private": true,
   "dependencies": {
     "@craco/craco": "^5.9.0",
